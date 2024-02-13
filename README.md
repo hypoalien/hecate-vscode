@@ -78,9 +78,3 @@ The file icon theme seen in the screenshot above is [Material Icon Theme](https:
 [VS Code Theme Documentation](https://code.visualstudio.com/docs/extensions/themes-snippets-colorizers)
 
 [VS Code Publishing Extensions](https://code.visualstudio.com/docs/extensions/publish-extension)
-
-Syntax & Workbench colors based on [Ayu Mirage Theme](https://github.com/teabyii/vscode-ayu)
-
-```bash
-vsce publish patch/minor/major
-```
