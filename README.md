@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Hecate Logo" src="https://github.com/hypoalien/hecate-vscode/blob/main/images/demo.png" width="100" />
+  <img alt="Hecate Logo" src="https://github.com/hypoalien/hecate-vscode/blob/main/images/logo.png" width="100" />
 </p>
 <h1 align="center">
   Hecate Theme for VS Code
@@ -19,7 +19,7 @@
   </a>
 </p>
 
-![demo](https://github.com/hypoalien/hecate-vscode/blob/main/images/logo.png)
+![demo](https://github.com/hypoalien/hecate-vscode/blob/main/images/demo.png)
 
 ## Installation via VS Code
 
