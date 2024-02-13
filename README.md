@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Hecate Logo" src="https://raw.githubusercontent.com/bchiang7/hecate-vscode/master/images/logo.png" width="100" />
+  <img alt="Hecate Logo" src="https://github.com/hypoalien/hecate-vscode/blob/main/images/demo.png" width="100" />
 </p>
 <h1 align="center">
   Hecate Theme for VS Code
@@ -8,18 +8,18 @@
   A minimal, dark blue theme for <a href="https://hecate-theme.netlify.com/">VS Code</a>.
 </p>
 <p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.hecate-vscode">
-    <img alt="Version" src="https://img.shields.io/visual-studio-marketplace/v/brittanychiang.hecate-vscode?color=brightgreen" />
+  <a href="https://marketplace.visualstudio.com/items?itemName=anudeep.Hecate-vscode">
+    <img alt="Version" src="https://img.shields.io/visual-studio-marketplace/v/anudeep.hecate-vscode?color=brightgreen" />
   </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.hecate-vscode">
-    <img alt="Downloads" src="https://img.shields.io/visual-studio-marketplace/d/brittanychiang.hecate-vscode" />
+  <a href="https://marketplace.visualstudio.com/items?itemName=anudeep.Hecate-vscode">
+    <img alt="Downloads" src="https://img.shields.io/visual-studio-marketplace/d/anudeep.hecate-vscode" />
   </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.hecate-vscode">
-    <img alt="Installs" src="https://img.shields.io/visual-studio-marketplace/i/brittanychiang.hecate-vscode" />
+  <a href="https://marketplace.visualstudio.com/items?itemName=anudeep.Hecate-vscode">
+    <img alt="Installs" src="https://img.shields.io/visual-studio-marketplace/i/anudeep.hecate-vscode" />
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/hecate-vscode/master/images/demo.png)
+![demo](https://github.com/hypoalien/hecate-vscode/blob/main/images/logo.png)
 
 ## Installation via VS Code
 
