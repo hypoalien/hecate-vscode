@@ -5,7 +5,7 @@
   Hecate Theme for VS Code
 </h1>
 <p align="center">
-  A minimal, dark blue theme for <a href="https://hecate-theme.netlify.com/">VS Code</a>.
+  A minimal, dark blue theme for <a href="https://marketplace.visualstudio.com/items?itemName=anudeep.Hecate-vscode">VS Code</a>.
 </p>
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=anudeep.Hecate-vscode">
